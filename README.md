@@ -52,21 +52,18 @@
 
 ```
 English_Learning_Project/
-├── README.md                 # 项目说明（本文件）
-├── study-plan/              # 学习计划
-│   ├── phase1-foundation.md # 第一阶段：基础恢复期
-│   ├── phase2-skills.md     # 第二阶段：技能提升期
-│   └── phase3-practice.md   # 第三阶段：冲刺练习期
-├── resources/               # 学习资源
-│   ├── listening.md         # 听力资源
-│   ├── reading.md           # 阅读资源
-│   ├── writing.md           # 写作资源
-│   ├── speaking.md          # 口语资源
-│   └── vocabulary.md        # 词汇资源
-├── progress/                # 学习进度
-│   └── weekly-log.md        # 每周学习记录
-└── practice/                # 练习记录
-    └── mock-tests.md        # 模考记录
+├── README.md                    # 项目说明（本文件）
+├── study-plan/                  # 学习计划
+│   ├── phase1-foundation.md     # 第一阶段：基础恢复期
+│   ├── phase2-skills.md         # 第二阶段：技能提升期
+│   └── phase3-practice.md       # 第三阶段：冲刺练习期
+├── resources/                   # 学习资源
+│   ├── learning-resources.md    # 学习资源清单（书籍/APP/网站）
+│   └── ielts-vocabulary.md      # 雅思核心词汇表（1000+单词）
+├── progress/                    # 学习进度
+│   └── weekly-log.md            # 每周学习记录
+└── practice/                    # 练习记录
+    └── mock-tests.md            # 模考记录
 
 ```
 
