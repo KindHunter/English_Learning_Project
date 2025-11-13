@@ -38,6 +38,40 @@
 - 学术词汇
 - 信号词和逻辑词
 
+## 词汇数据模型
+
+项目使用 JSON 格式存储词汇数据，采用标准化的数据模型。
+
+### 标准模型结构
+
+```json
+{
+  "word": "单词",
+  "phonetic": "音标",
+  "partOfSpeech": "词性",
+  "definition": "中文释义",
+  "category": "分类标签",
+  "frequency": "使用频率 (high/medium/low)",
+  "examples": ["例句1", "例句2"],
+  "synonyms": ["同义词1", "同义词2"]
+}
+```
+
+### 分类标签说明
+
+- `listening-rental` - 听力场景：租房
+- `listening-tourism` - 听力场景：旅游
+- `writing-environment` - 写作话题：环境
+- `writing-education` - 写作话题：教育
+- `writing-technology` - 写作话题：科技
+- `writing-chart` - 写作：图表描述
+- `speaking-personality` - 口语：性格描述
+- `academic` - 学术通用词汇
+
+### 示例文件
+
+查看 `单词数据/example-vocabulary.json` 了解完整的数据格式示例。
+
 ## 使用方式
 
 1. 浏览对应分类找到需要的资源

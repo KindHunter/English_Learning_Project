@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "title": "雅思词汇示例数据",
+    "description": "使用标准数据模型的示例词汇文件",
+    "version": "1.0",
+    "created": "2025-11-13",
+    "category": "mixed"
+  },
+  "words": [
+    {
+      "word": "accommodation",
+      "phonetic": "/əˌkɒməˈdeɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "住宿，住处",
+      "category": "listening-rental",
+      "frequency": "high",
+      "examples": [
+        "The price includes accommodation and meals.",
+        "University accommodation is very limited."
+      ],
+      "synonyms": [
+        "housing",
+        "lodging",
+        "residence"
+      ]
+    },
+    {
+      "word": "pollution",
+      "phonetic": "/pəˈluːʃn/",
+      "partOfSpeech": "n.",
+      "definition": "污染",
+      "category": "writing-environment",
+      "frequency": "high",
+      "examples": [
+        "Air pollution has reached dangerous levels in many cities.",
+        "The government is taking measures to reduce water pollution."
+      ],
+      "synonyms": [
+        "contamination"
+      ]
+    },
+    {
+      "word": "sustainable",
+      "phonetic": "/səˈsteɪnəbl/",
+      "partOfSpeech": "adj.",
+      "definition": "可持续的",
+      "category": "writing-environment",
+      "frequency": "high",
+      "examples": [
+        "We need to develop sustainable energy sources.",
+        "Sustainable development is crucial for future generations."
+      ],
+      "synonyms": [
+        "viable",
+        "renewable"
+      ]
+    },
+    {
+      "word": "deposit",
+      "phonetic": "/dɪˈpɒzɪt/",
+      "partOfSpeech": "n./v.",
+      "definition": "押金；存款",
+      "category": "listening-rental",
+      "frequency": "high",
+      "examples": [
+        "You need to pay a deposit of £500.",
+        "I'd like to deposit this check into my account."
+      ],
+      "synonyms": [
+        "down payment",
+        "security"
+      ]
+    },
+    {
+      "word": "innovation",
+      "phonetic": "/ˌɪnəˈveɪʃn/",
+      "partOfSpeech": "n.",
+      "definition": "创新，革新",
+      "category": "writing-technology",
+      "frequency": "high",
+      "examples": [
+        "Technological innovation has transformed our daily lives.",
+        "The company is known for its innovation in product design."
+      ],
+      "synonyms": [
+        "breakthrough",
+        "advancement"
+      ]
+    },
+    {
+      "word": "demonstrate",
+      "phonetic": "/ˈdemənstreɪt/",
+      "partOfSpeech": "v.",
+      "definition": "展示，证明",
+      "category": "academic",
+      "frequency": "high",
+      "examples": [
+        "The research demonstrates the effectiveness of the treatment.",
+        "Let me demonstrate how this device works."
+      ],
+      "synonyms": [
+        "show",
+        "prove",
+        "illustrate"
+      ]
+    },
+    {
+      "word": "enthusiasm",
+      "phonetic": "/ɪnˈθjuːziæzəm/",
+      "partOfSpeech": "n.",
+      "definition": "热情，热忱",
+      "category": "speaking-personality",
+      "frequency": "medium",
+      "examples": [
+        "She showed great enthusiasm for the project.",
+        "His enthusiasm is infectious."
+      ],
+      "synonyms": [
+        "passion",
+        "eagerness"
+      ]
+    },
+    {
+      "word": "fluctuate",
+      "phonetic": "/ˈflʌktʃueɪt/",
+      "partOfSpeech": "v.",
+      "definition": "波动，起伏",
+      "category": "writing-chart",
+      "frequency": "high",
+      "examples": [
+        "Prices fluctuate according to supply and demand.",
+        "The temperature fluctuates between 20 and 30 degrees."
+      ],
+      "synonyms": [
+        "vary",
+        "change"
+      ]
+    },
+    {
+      "word": "curriculum",
+      "phonetic": "/kəˈrɪkjələm/",
+      "partOfSpeech": "n.",
+      "definition": "课程",
+      "category": "writing-education",
+      "frequency": "high",
+      "examples": [
+        "The school has introduced a new curriculum.",
+        "Foreign languages are an important part of the curriculum."
+      ],
+      "synonyms": [
+        "syllabus",
+        "course"
+      ]
+    },
+    {
+      "word": "conduct",
+      "phonetic": "/kənˈdʌkt/",
+      "partOfSpeech": "v.",
+      "definition": "进行，实施",
+      "category": "academic",
+      "frequency": "high",
+      "examples": [
+        "The university conducted a survey among students.",
+        "We need to conduct more research on this topic."
+      ],
+      "synonyms": [
+        "carry out",
+        "perform"
+      ]
+    }
+  ]
+}
